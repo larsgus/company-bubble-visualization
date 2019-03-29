@@ -1,35 +1,35 @@
-id,value,country
-Lockeed Martin,105 000,U.S.
-Raytheon Company,67 000,U.S.
-BAE Systems,85 800,U.K.
-Northrop Grumman,85 000,U.S.
-Boeing (Defense Space & Security - 36.742),153 027,U.S.
-General Dynamics,98 600,U.S.
-Airbus,130 000,Netherlands/France
-Thales,66 000,France
-Leonardo,41 488,Italy
-L3 Technologies,31 000,U.S.
-Naval Group,14 670,France
-Harris Corporation,17 500,U.S.
-Textron Inc.,35 000,U.S.
-Rheinmetall Defence (Group 24 950),12 000,Germany
-Elbit Systems Ltd.,12 500,Israel
-Saab,16 500,Sweden
-Russian Helicopters,46 000,Russia
-Hindustan Aeronautics,32 100,India
-Rafael Advanced Defense Systems,7 500,Israel
-Dassault,11 400,France
-Cobham,11 500,U.K.
-Safran,92 000,France
-Aselsan,6 000,Turkey
-Turkish Aerospace Industries,5 000,Turkey
-Ruag,9 127,Switzerland
-Curtiss-Wright,8 000,U.S.
-Kongsberg gruppen,6 900,Norway
-Indra,43 000,Spain
-Patria,2 800,Finland
-Nammo,2 400,Norway
-FLIR,3 000,U.S.
+company,employees,country
+Lockeed Martin,105000,U.S.
+Raytheon Company,67000,U.S.
+BAE Systems,85800,U.K.
+Northrop Grumman,85000,U.S.
+Boeing (Defense Space & Security - 36.742),153027,U.S.
+General Dynamics,98600,U.S.
+Airbus,130000,Netherlands/France
+Thales,66000,France
+Leonardo,41488,Italy
+L3 Technologies,31000,U.S.
+Naval Group,14670,France
+Harris Corporation,17500,U.S.
+Textron Inc.,35000,U.S.
+Rheinmetall Defence (Group 24 950),12000,Germany
+Elbit Systems Ltd.,12500,Israel
+Saab,16500,Sweden
+Russian Helicopters,46000,Russia
+Hindustan Aeronautics,32100,India
+Rafael Advanced Defense Systems,7500,Israel
+Dassault,11400,France
+Cobham,11500,U.K.
+Safran,92000,France
+Aselsan,6000,Turkey
+Turkish Aerospace Industries,5000,Turkey
+Ruag,9127,Switzerland
+Curtiss-Wright,8000,U.S.
+Kongsberg gruppen,6900,Norway
+Indra,43000,Spain
+Patria,2800,Finland
+Nammo,2400,Norway
+FLIR,3000,U.S.
 AIM Norway,476,Norway
 Airbus Defence and Space AS,39,Norway
 Aircontact Group AS,9,Norway
@@ -92,8 +92,8 @@ Jotne EPM Technology AS,17,Norway
 K. Lerøy Metallindustri AS,35,Norway
 Kitron AS,273,Norway
 Kjell A. Østnes AS,10,Norway
-Kongsberg Defence & Aerospace AS,1 926,Norway
-Kongsberg Maritime AS,1 725,Norway
+Kongsberg Defence & Aerospace AS,1926,Norway
+Kongsberg Maritime AS,1725,Norway
 Kongsberg Target Systems AS,17,Norway
 Kongsberg Digital,241,Norway
 Light Structures AS,14,Norway
